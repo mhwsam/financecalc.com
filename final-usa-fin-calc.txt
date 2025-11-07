@@ -1,0 +1,266 @@
+Category	Calculator	Suggested Slug
+Auto & Transportation	Auto affordability (DTI/price target)	auto-affordability-dti-price-target
+Auto & Transportation	Auto lease payment (money factor ↔ APR)	auto-lease-payment-money-factor-apr
+Auto & Transportation	Auto loan calculator	auto-loan-calculator
+Auto & Transportation	Auto loan with trade-in / negative equity	auto-loan-with-trade-in-negative-equity
+Auto & Transportation	Auto refinance savings	auto-refinance-savings
+Auto & Transportation	Auto sales tax & fees estimator	auto-sales-tax-and-fees-estimator
+Auto & Transportation	Biweekly auto payoff	biweekly-auto-payoff
+Auto & Transportation	Car loan calculator	car-loan-calculator
+Auto & Transportation	Car payment calculator	car-payment-calculator
+Auto & Transportation	Dealer incentive: cash-back vs low-APR breakeven	dealer-incentive-cash-back-vs-low-apr-breakeven
+Auto & Transportation	EV federal tax credit eligibility (IRC §30D)	ev-federal-tax-credit-eligibility-irc-30d
+Auto & Transportation	EV vs gas total cost of ownership (incl. tax credit)	ev-vs-gas-total-cost-of-ownership-incl-tax-credit
+Auto & Transportation	Fuel cost per month / per mile (MPG, miles/year)	fuel-cost-per-month-per-mile-mpg-miles-year
+Auto & Transportation	Lease vs buy (auto)	lease-vs-buy-auto
+Auto & Transportation	Out-the-door price (taxes/fees)	out-the-door-price-taxes-fees
+Auto & Transportation	Trade-in vs private sale net proceeds	trade-in-vs-private-sale-net-proceeds
+Auto & Transportation	Used vs new total cost of ownership	used-vs-new-total-cost-of-ownership
+Auto & Transportation	Vehicle depreciation curve	vehicle-depreciation-curve
+Banking, Savings & Cash Management	APY ↔ APR / EAR converter (effective rate)	apy-apr-ear-converter-effective-rate
+Banking, Savings & Cash Management	CD early-withdrawal penalty	cd-early-withdrawal-penalty
+Banking, Savings & Cash Management	CD ladder planner	cd-ladder-planner
+Banking, Savings & Cash Management	CD maturity value / interest	cd-maturity-value-interest
+Banking, Savings & Cash Management	Emergency fund size	emergency-fund-size
+Banking, Savings & Cash Management	HYSA vs checking opportunity cost	hysa-vs-checking-opportunity-cost
+Banking, Savings & Cash Management	Inflation-adjusted savings (real return)	inflation-adjusted-savings-real-return
+Banking, Savings & Cash Management	Investment income tracker (interest/dividends)	investment-income-tracker-interest-dividends
+Banking, Savings & Cash Management	Money market vs savings comparison	money-market-vs-savings-comparison
+Banking, Savings & Cash Management	Savings goal (target amount & date)	savings-goal-target-amount-and-date
+Banking, Savings & Cash Management	Simple vs compound interest	simple-vs-compound-interest
+Banking, Savings & Cash Management	Sinking fund planner	sinking-fund-planner
+Budgeting, Income & Everyday Math	Budget planner	budget-planner
+Budgeting, Income & Everyday Math	Cash-flow calendar / bill-pay scheduler	cash-flow-calendar-bill-pay-scheduler
+Budgeting, Income & Everyday Math	Commission calculator	commission-calculator
+Budgeting, Income & Everyday Math	Date calculator (day-count, due dates)	date-calculator-day-count-due-dates
+Budgeting, Income & Everyday Math	Net worth tracker	net-worth-tracker
+Budgeting, Income & Everyday Math	Overtime / shift differential pay	overtime-shift-differential-pay
+Budgeting, Income & Everyday Math	Pay raise impact (gross & net)	pay-raise-impact-gross-and-net
+Budgeting, Income & Everyday Math	Percentage / proportion / discount calculator	percentage-proportion-discount-calculator
+Budgeting, Income & Everyday Math	Salary ↔ hourly converter	salary-hourly-converter
+Budgeting, Income & Everyday Math	Sales-tax calculator (quick)	sales-tax-calculator-quick
+Budgeting, Income & Everyday Math	Tip calculator	tip-calculator
+Budgeting, Income & Everyday Math	Unit conversions (finance-relevant)	unit-conversions-finance-relevant
+Credit Cards & Scores	0% intro payoff planner	0-intro-payoff-planner
+Credit Cards & Scores	Average Daily Balance interest cost	average-daily-balance-interest-cost
+Credit Cards & Scores	Balance transfer savings + breakeven (with fee)	balance-transfer-savings-breakeven-with-fee
+Credit Cards & Scores	Credit utilization impact (what-if)	credit-utilization-impact-what-if
+Credit Cards & Scores	Credit-card payoff time & total interest	credit-card-payoff-time-and-total-interest
+Credit Cards & Scores	Foreign transaction fee cost	foreign-transaction-fee-cost
+Credit Cards & Scores	Minimum payment cost (time to payoff)	minimum-payment-cost-time-to-payoff
+Credit Cards & Scores	Purchase vs cash-advance cost	purchase-vs-cash-advance-cost
+Credit Cards & Scores	Rewards valuation (cashback vs points vs miles)	rewards-valuation-cashback-vs-points-vs-miles
+Credit Cards & Scores	Welcome bonus breakeven / opportunity cost	welcome-bonus-breakeven-opportunity-cost
+Family & Life Events	Childcare cost vs second income	childcare-cost-vs-second-income
+Family & Life Events	Cost of raising a child	cost-of-raising-a-child
+Family & Life Events	Cost-of-living comparison (city vs city)	cost-of-living-comparison-city-vs-city
+Family & Life Events	Home renovation ROI / payback	home-renovation-roi-payback
+Family & Life Events	Moving cost vs salary change (COL adjust)	moving-cost-vs-salary-change-col-adjust
+Family & Life Events	Wedding budget & savings pace	wedding-budget-and-savings-pace
+Futures & Commodities	Carry / cost-of-carry (fair value)	carry-cost-of-carry-fair-value
+Futures & Commodities	Futures P&L & breakeven	futures-p-and-l-and-breakeven
+Futures & Commodities	Futures margin & leverage impact	futures-margin-and-leverage-impact
+Inflation, Currency & Purchasing Power	Budget-category inflation impact	budget-category-inflation-impact
+Inflation, Currency & Purchasing Power	Currency converter	currency-converter
+Inflation, Currency & Purchasing Power	Real purchasing power over time	real-purchasing-power-over-time
+Inflation, Currency & Purchasing Power	Real wage growth	real-wage-growth
+Inflation, Currency & Purchasing Power	TIPS breakeven inflation	tips-breakeven-inflation
+Inflation, Currency & Purchasing Power	U.S. inflation (CPI) calculator	u-s-inflation-cpi-calculator
+Insurance & Health (U.S.)	ACA Premium Tax Credit (Marketplace subsidy) estimator	aca-premium-tax-credit-marketplace-subsidy-estimator
+Insurance & Health (U.S.)	COBRA cost estimator	cobra-cost-estimator
+Insurance & Health (U.S.)	Disability insurance benefit need	disability-insurance-benefit-need
+Insurance & Health (U.S.)	FSA tax savings	fsa-tax-savings
+Insurance & Health (U.S.)	HRA reimbursement benefit estimator	hra-reimbursement-benefit-estimator
+Insurance & Health (U.S.)	HSA vs PPO breakeven; HSA growth projection	hsa-vs-ppo-breakeven-hsa-growth-projection
+Insurance & Health (U.S.)	Health plan picker (HMO/PPO/HDHP TCO)	health-plan-picker-hmo-ppo-hdhp-tco
+Insurance & Health (U.S.)	Life-insurance needs (income replacement)	life-insurance-needs-income-replacement
+Insurance & Health (U.S.)	Long-term care premium vs benefit breakeven	long-term-care-premium-vs-benefit-breakeven
+Insurance & Health (U.S.)	Term vs whole comparison (TCO)	term-vs-whole-comparison-tco
+Insurance & Health (U.S.)	Umbrella liability coverage need	umbrella-liability-coverage-need
+Investing & Markets	Asset-allocation (risk-based model)	asset-allocation-risk-based-model
+Investing & Markets	Average / annualized return (geometric)	average-annualized-return-geometric
+Investing & Markets	Bond duration & convexity	bond-duration-and-convexity
+Investing & Markets	Bond price/yield/YTM calculator	bond-price-yield-ytm-calculator
+Investing & Markets	Brokerage margin interest cost	brokerage-margin-interest-cost
+Investing & Markets	CAGR calculator	cagr-calculator
+Investing & Markets	Dividend reinvestment (DRIP) total return	dividend-reinvestment-drip-total-return
+Investing & Markets	Dollar-cost averaging (DCA) impact	dollar-cost-averaging-dca-impact
+Investing & Markets	Expense-ratio drag over time	expense-ratio-drag-over-time
+Investing & Markets	I Bond composite rate & value tracker	i-bond-composite-rate-and-value-tracker
+Investing & Markets	Investment growth / future value (lump + DCA)	investment-growth-future-value-lump-dca
+Investing & Markets	Lot-selection tax impact (FIFO/LIFO/HIFO)	lot-selection-tax-impact-fifo-lifo-hifo
+Investing & Markets	NPV & IRR	npv-and-irr
+Investing & Markets	Payback period	payback-period
+Investing & Markets	Portfolio expected return & volatility (2-asset)	portfolio-expected-return-and-volatility-2-asset
+Investing & Markets	Real (after-inflation) return	real-after-inflation-return
+Investing & Markets	Rebalancing drift & tax impact	rebalancing-drift-and-tax-impact
+Investing & Markets	Stock profit (incl. fees/taxes)	stock-profit-incl-fees-taxes
+Investing & Markets	Tax-equivalent yield (munis)	tax-equivalent-yield-munis
+Investing & Markets	Tax-loss harvesting benefit estimator	tax-loss-harvesting-benefit-estimator
+Investing & Markets	U.S. Treasury bill (T-bill) calculator	u-s-treasury-bill-t-bill-calculator
+Investing & Markets	Yield on cost (stock/dividend)	yield-on-cost-stock-dividend
+Loans & Debt	APR Advanced (APR↔EAR/APY with fees/points)	apr-advanced-apr-ear-apy-with-fees-points
+Loans & Debt	APR with fees (simple)	apr-with-fees-simple
+Loans & Debt	Boat/RV loan calculator	boat-rv-loan-calculator
+Loans & Debt	Debt consolidation savings	debt-consolidation-savings
+Loans & Debt	Debt payoff planner (avalanche/snowball)	debt-payoff-planner-avalanche-snowball
+Loans & Debt	Deferred-interest promo financing risk	deferred-interest-promo-financing-risk
+Loans & Debt	Extra payment / payoff accelerator	extra-payment-payoff-accelerator
+Loans & Debt	Interest-only loan calculator	interest-only-loan-calculator
+Loans & Debt	Lease calculator (non-auto equipment)	lease-calculator-non-auto-equipment
+Loans & Debt	Loan comparison (two+ scenarios)	loan-comparison-two-scenarios
+Loans & Debt	Loan payment & amortization (generic)	loan-payment-and-amortization-generic
+Loans & Debt	Loan refinance savings	loan-refinance-savings
+Loans & Debt	Payday/short-term loan true APR	payday-short-term-loan-true-apr
+Loans & Debt	Personal loan calculator	personal-loan-calculator
+Loans & Debt	Repayment calculator (generic)	repayment-calculator-generic
+Loans & Debt	Secured vs unsecured loan comparison	secured-vs-unsecured-loan-comparison
+Mortgages & Real Estate	2-1 / 3-2-1 rate buydown breakeven	2-1-3-2-1-rate-buydown-breakeven
+Mortgages & Real Estate	Adjustable-rate mortgage (ARM reset / caps)	adjustable-rate-mortgage-arm-reset-caps
+Mortgages & Real Estate	Biweekly vs monthly payments	biweekly-vs-monthly-payments
+Mortgages & Real Estate	Buy vs build (construction loan)	buy-vs-build-construction-loan
+Mortgages & Real Estate	Cash-out refinance (new payment + cash received)	cash-out-refinance-new-payment-cash-received
+Mortgages & Real Estate	Closing costs estimator	closing-costs-estimator
+Mortgages & Real Estate	Debt-to-income (DTI) ratio	debt-to-income-dti-ratio
+Mortgages & Real Estate	Down payment impact (LTV + PMI trigger)	down-payment-impact-ltv-pmi-trigger
+Mortgages & Real Estate	Escrow estimator (property tax + homeowners insurance)	escrow-estimator-property-tax-homeowners-insurance
+Mortgages & Real Estate	Extra payments / early payoff date	extra-payments-early-payoff-date
+Mortgages & Real Estate	FHA loan calculator (incl. MIP)	fha-loan-calculator-incl-mip
+Mortgages & Real Estate	FHA upfront MIP refund estimator (streamline refi)	fha-upfront-mip-refund-estimator-streamline-refi
+Mortgages & Real Estate	Fixed vs ARM comparison	fixed-vs-arm-comparison
+Mortgages & Real Estate	HELOC payment (draw vs repayment)	heloc-payment-draw-vs-repayment
+Mortgages & Real Estate	HELOC vs cash-out refinance comparator	heloc-vs-cash-out-refinance-comparator
+Mortgages & Real Estate	Home affordability (How much house can I afford?)	home-affordability-how-much-house-can-i-afford
+Mortgages & Real Estate	Home appreciation / equity growth	home-appreciation-equity-growth
+Mortgages & Real Estate	Home equity loan (HELOAN) payment	home-equity-loan-heloan-payment
+Mortgages & Real Estate	Home sale net proceeds (incl. agent fees, taxes)	home-sale-net-proceeds-incl-agent-fees-taxes
+Mortgages & Real Estate	Interest-only mortgage payment	interest-only-mortgage-payment
+Mortgages & Real Estate	Jumbo mortgage calculator	jumbo-mortgage-calculator
+Mortgages & Real Estate	Loan-to-value (LTV)	loan-to-value-ltv
+Mortgages & Real Estate	Mortgage APR (with fees)	mortgage-apr-with-fees
+Mortgages & Real Estate	Mortgage amortization schedule (printable/CSV)	mortgage-amortization-schedule-printable-csv
+Mortgages & Real Estate	Mortgage comparison (side-by-side loans)	mortgage-comparison-side-by-side-loans
+Mortgages & Real Estate	Mortgage payment (PITI/PMI) + full amortization	mortgage-payment-piti-pmi-full-amortization
+Mortgages & Real Estate	Mortgage payoff accelerator (one-time + recurring extra)	mortgage-payoff-accelerator-one-time-recurring-extra
+Mortgages & Real Estate	Mortgage recast impact	mortgage-recast-impact
+Mortgages & Real Estate	PMI removal date (reach 80% LTV)	pmi-removal-date-reach-80-ltv
+Mortgages & Real Estate	PMI vs LPMI (lender-paid PMI) breakeven	pmi-vs-lpmi-lender-paid-pmi-breakeven
+Mortgages & Real Estate	Points vs rate (discount-points breakeven)	points-vs-rate-discount-points-breakeven
+Mortgages & Real Estate	Property tax estimator (by address/state rate)	property-tax-estimator-by-address-state-rate
+Mortgages & Real Estate	Refinance savings + breakeven months	refinance-savings-breakeven-months
+Mortgages & Real Estate	Rent affordability (income-based rent)	rent-affordability-income-based-rent
+Mortgages & Real Estate	Rent increase impact	rent-increase-impact
+Mortgages & Real Estate	Rent vs buy	rent-vs-buy
+Mortgages & Real Estate	Second mortgage / blended rate	second-mortgage-blended-rate
+Mortgages & Real Estate	USDA mortgage calculator (guarantee fee)	usda-mortgage-calculator-guarantee-fee
+Mortgages & Real Estate	VA mortgage calculator (funding fee)	va-mortgage-calculator-funding-fee
+Optional / Non-U.S.	VAT calculator (non-U.S.)	vat-calculator-non-u-s
+Pay & Compensation (U.S.)	1099 vs W-2 take-home comparison	1099-vs-w-2-take-home-comparison
+Pay & Compensation (U.S.)	Benefits value (health/dental/vision) estimator	benefits-value-health-dental-vision-estimator
+Pay & Compensation (U.S.)	Bonus/commission supplemental wage tax	bonus-commission-supplemental-wage-tax
+Pay & Compensation (U.S.)	Federal & state income-tax estimator	federal-and-state-income-tax-estimator
+Pay & Compensation (U.S.)	Gross-up (net → gross)	gross-up-net-gross
+Pay & Compensation (U.S.)	Marriage tax: joint vs separate	marriage-tax-joint-vs-separate
+Pay & Compensation (U.S.)	PTO cash-out value	pto-cash-out-value
+Pay & Compensation (U.S.)	Paycheck (50-state) net pay	paycheck-50-state-net-pay
+Pay & Compensation (U.S.)	RSU/ESPP take-home (withholding & net shares)	rsu-espp-take-home-withholding-and-net-shares
+Pay & Compensation (U.S.)	Relocation / severance tax gross-up	relocation-severance-tax-gross-up
+Pay & Compensation (U.S.)	Self-employment & FICA tax (Schedule SE)	self-employment-and-fica-tax-schedule-se
+Pay & Compensation (U.S.)	Tip allocation (FICA) calculator	tip-allocation-fica-calculator
+Pay & Compensation (U.S.)	W-4 withholding estimator (what-if)	w-4-withholding-estimator-what-if
+Real-Estate Investing	1031 exchange capital-gains / boot estimator	1031-exchange-capital-gains-boot-estimator
+Real-Estate Investing	Airbnb/short-term vs long-term ROI	airbnb-short-term-vs-long-term-roi
+Real-Estate Investing	BRRRR analyzer (purchase → rehab → refi → rent)	brrrr-analyzer-purchase-rehab-refi-rent
+Real-Estate Investing	Cash-out refi to recycle equity	cash-out-refi-to-recycle-equity
+Real-Estate Investing	Cost segregation benefit (high-level)	cost-segregation-benefit-high-level
+Real-Estate Investing	DSCR & LTV qualification	dscr-and-ltv-qualification
+Real-Estate Investing	Depreciation (MACRS) schedule & recapture	depreciation-macrs-schedule-and-recapture
+Real-Estate Investing	Fix-and-flip profit (ARV, rehab budget)	fix-and-flip-profit-arv-rehab-budget
+Real-Estate Investing	Landlord breakeven rent (expense coverage)	landlord-breakeven-rent-expense-coverage
+Real-Estate Investing	Net operating income (NOI), vacancy & expense ratios	net-operating-income-noi-vacancy-and-expense-ratios
+Real-Estate Investing	Rental property cash flow & ROI (cap rate, cash-on-cash)	rental-property-cash-flow-and-roi-cap-rate-cash-on-cash
+Retirement	401(k) save the max (match optimizer)	401-k-save-the-max-match-optimizer
+Retirement	401(k)/403(b)/457(b) growth (employer match)	401-k-403-b-457-b-growth-employer-match
+Retirement	Annuity payout (SPIA/DIA; period-certain, life)	annuity-payout-spia-dia-period-certain-life
+Retirement	Early withdrawal penalty & taxes	early-withdrawal-penalty-and-taxes
+Retirement	Medicare IRMAA surcharge estimator	medicare-irmaa-surcharge-estimator
+Retirement	Net unrealized appreciation (NUA) decision helper	net-unrealized-appreciation-nua-decision-helper
+Retirement	Pension benefit (annuity vs lump sum)	pension-benefit-annuity-vs-lump-sum
+Retirement	Qualified charitable distribution (QCD) impact	qualified-charitable-distribution-qcd-impact
+Retirement	Required Minimum Distribution (RMD) calculator	required-minimum-distribution-rmd-calculator
+Retirement	Retirement income (decumulation) analysis	retirement-income-decumulation-analysis
+Retirement	Retirement planner (goal-based accumulation)	retirement-planner-goal-based-accumulation
+Retirement	Retirement savings analysis (gap to target)	retirement-savings-analysis-gap-to-target
+Retirement	Roth 5-year rule timer	roth-5-year-rule-timer
+Retirement	Roth IRA & IRA growth	roth-ira-and-ira-growth
+Retirement	Roth conversion (marginal-bracket fill)	roth-conversion-marginal-bracket-fill
+Retirement	Safe withdrawal rate (4%/guardrails; Monte-Carlo lite)	safe-withdrawal-rate-4-guardrails-monte-carlo-lite
+Retirement	Social Security breakeven & claiming age	social-security-breakeven-and-claiming-age
+Retirement	Social Security estimator	social-security-estimator
+Retirement	Social Security spousal/survivor strategy estimator	social-security-spousal-survivor-strategy-estimator
+Retirement	Tax-efficient withdrawal order (taxable / tax-deferred / Roth)	tax-efficient-withdrawal-order-taxable-tax-deferred-roth
+Retirement	Traditional vs Roth (tax breakeven)	traditional-vs-roth-tax-breakeven
+Small Business & Accounting	Balance-sheet & income-statement analysis (ratios)	balance-sheet-and-income-statement-analysis-ratios
+Small Business & Accounting	Break-even analysis (units & dollars)	break-even-analysis-units-and-dollars
+Small Business & Accounting	Business forecast / growth projections	business-forecast-growth-projections
+Small Business & Accounting	Business line of credit (LOC) interest/cost	business-line-of-credit-loc-interest-cost
+Small Business & Accounting	CAC payback period (SaaS)	cac-payback-period-saas
+Small Business & Accounting	Cash runway (burn rate)	cash-runway-burn-rate
+Small Business & Accounting	Common financial ratios (liquidity, leverage, efficiency)	common-financial-ratios-liquidity-leverage-efficiency
+Small Business & Accounting	Contractor vs employee total cost	contractor-vs-employee-total-cost
+Small Business & Accounting	Contribution margin & operating leverage	contribution-margin-and-operating-leverage
+Small Business & Accounting	Invoice factoring cost (implied APR)	invoice-factoring-cost-implied-apr
+Small Business & Accounting	LTV:CAC ratio	ltv-cac-ratio
+Small Business & Accounting	MRR/ARR growth, churn & retention math	mrr-arr-growth-churn-and-retention-math
+Small Business & Accounting	Margin & markup	margin-and-markup
+Small Business & Accounting	Merchant cash advance (factor rate → APR)	merchant-cash-advance-factor-rate-apr
+Small Business & Accounting	Payroll tax (FUTA/SUTA/FICA shares)	payroll-tax-futa-suta-fica-shares
+Small Business & Accounting	QBI (§199A) deduction estimator	qbi-199a-deduction-estimator
+Small Business & Accounting	S-corp vs sole prop payroll-tax savings	s-corp-vs-sole-prop-payroll-tax-savings
+Small Business & Accounting	SBA 7(a)/504 loan payment & fees	sba-7-a-504-loan-payment-and-fees
+Small Business & Accounting	Sales tax by state (quick blend)	sales-tax-by-state-quick-blend
+Small Business & Accounting	Section 179 vs bonus depreciation optimizer	section-179-vs-bonus-depreciation-optimizer
+Stocks, Options & Risk	Black-Scholes option pricing	black-scholes-option-pricing
+Stocks, Options & Risk	Constant-growth (Gordon) valuation	constant-growth-gordon-valuation
+Stocks, Options & Risk	Covered-call payoff & annualized yield	covered-call-payoff-and-annualized-yield
+Stocks, Options & Risk	Holding-period return (total return)	holding-period-return-total-return
+Stocks, Options & Risk	Multi-stage growth valuation	multi-stage-growth-valuation
+Stocks, Options & Risk	Option Greeks (Δ, Γ, Θ, Vega, ρ)	option-greeks-vega
+Stocks, Options & Risk	Options P/L (single & multi-leg visualizer)	options-p-l-single-and-multi-leg-visualizer
+Stocks, Options & Risk	Protective put / collar analyzer	protective-put-collar-analyzer
+Stocks, Options & Risk	Technical levels: pivot points, Fibonacci	technical-levels-pivot-points-fibonacci
+Stocks, Options & Risk	WACC (weighted average cost of capital)	wacc-weighted-average-cost-of-capital
+Student Loans & Education	College cost planner	college-cost-planner
+Student Loans & Education	College savings (529) target	college-savings-529-target
+Student Loans & Education	FAFSA SAI (formerly EFC) – simplified estimate	fafsa-sai-formerly-efc-simplified-estimate
+Student Loans & Education	PSLF tracker & forgiveness timeline (high-level)	pslf-tracker-and-forgiveness-timeline-high-level
+Student Loans & Education	SAVE plan interest subsidy estimator	save-plan-interest-subsidy-estimator
+Student Loans & Education	SAVE/REPAYE/PAYE planner (monthly + total)	save-repaye-paye-planner-monthly-total
+Student Loans & Education	Student-loan interest deduction (tax benefit)	student-loan-interest-deduction-tax-benefit
+Student Loans & Education	Student-loan payment (standard vs IDR)	student-loan-payment-standard-vs-idr
+Student Loans & Education	Student-loan refinance breakeven	student-loan-refinance-breakeven
+Taxes (U.S.) – Individual	529 state tax deduction/credit	529-state-tax-deduction-credit
+Taxes (U.S.) – Individual	AMT estimator	amt-estimator
+Taxes (U.S.) – Individual	Capital gains & qualified dividends tax	capital-gains-and-qualified-dividends-tax
+Taxes (U.S.) – Individual	Child & dependent care credit	child-and-dependent-care-credit
+Taxes (U.S.) – Individual	Child tax credit (CTC)	child-tax-credit-ctc
+Taxes (U.S.) – Individual	Earned income tax credit (EITC)	earned-income-tax-credit-eitc
+Taxes (U.S.) – Individual	Energy credits (EV/clean energy basics)	energy-credits-ev-clean-energy-basics
+Taxes (U.S.) – Individual	Estimated quarterly taxes (safe-harbor)	estimated-quarterly-taxes-safe-harbor
+Taxes (U.S.) – Individual	Federal & state income tax calculator	federal-and-state-income-tax-calculator
+Taxes (U.S.) – Individual	Gift & estate tax calculator	gift-and-estate-tax-calculator
+Taxes (U.S.) – Individual	HSA / FSA tax savings	hsa-fsa-tax-savings
+Taxes (U.S.) – Individual	ISO/NSO stock options tax estimator	iso-nso-stock-options-tax-estimator
+Taxes (U.S.) – Individual	Itemized vs standard deduction (SALT cap)	itemized-vs-standard-deduction-salt-cap
+Taxes (U.S.) – Individual	Marriage tax (joint vs separate)	marriage-tax-joint-vs-separate-2
+Taxes (U.S.) – Individual	NIIT (3.8%) – net investment income tax	niit-3-8-net-investment-income-tax
+Taxes (U.S.) – Individual	Property tax estimator	property-tax-estimator
+Taxes (U.S.) – Individual	SALT deduction cap impact (IRC §164)	salt-deduction-cap-impact-irc-164
+Time Value of Money (TVM)	Annuity due vs ordinary annuity	annuity-due-vs-ordinary-annuity
+Time Value of Money (TVM)	Future value (FV)	future-value-fv
+Time Value of Money (TVM)	Payment (PMT) / annuity	payment-pmt-annuity
+Time Value of Money (TVM)	Perpetuity & growing perpetuity	perpetuity-and-growing-perpetuity
+Time Value of Money (TVM)	Present value (PV)	present-value-pv
+Time Value of Money (TVM)	Rule of 72	rule-of-72
+Time Value of Money (TVM)	TVM solver (PV, FV, N, I/Y, PMT)	tvm-solver-pv-fv-n-i-y-pmt
+Time Value of Money (TVM)	XIRR (dated cash flows)	xirr-dated-cash-flows
